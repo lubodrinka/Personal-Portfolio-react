@@ -1,0 +1,243 @@
+.logo {
+  border: 1px solid floralwhite;
+  border-radius: 3px;
+  max-width: 200px;
+  height: 50px;
+  padding: 2px;
+}
+.logos {
+  margin-top: 2vh;
+  margin: 0 auto;
+}
+#imgMe {
+  image-rendering: crisp-edges;
+  border-radius: 100%;
+  max-width: 80px;
+  max-height: 80px;
+}
+.target {
+  padding: 5px;
+}
+
+input {
+  border: none;
+}
+.fontstyle {
+  font-family: "Lucida Sans", serif;
+  color: purple;
+  font-size: 18px;
+  font-stretch: extra-condensed;
+}
+
+.fontstyle2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif, serif;
+  color: rgba(245, 245, 245, 0.884);
+  font-size: 18px;
+}
+
+.center {
+  text-align: center;
+}
+
+.shadowspecial1 {
+  text-shadow: 1px 1px 2px rgb(26, 25, 24), 3px 3px 3px rgb(4, 0, 17);
+}
+
+.borders {
+  border: 1px solid darkslateblue;
+}
+
+.shadowbox {
+  -webkit-box-shadow: 1px 1px 1px rgba(0, 0, 0, 1), 2px 2px 2px rgba(0, 0, 0, 1);
+  -moz-box-shadow: 1px 1px 1px rgba(0, 0, 0, 1), 2px 2px 2px rgba(0, 0, 0, 1);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+body {
+  background-color: whitesmoke;
+
+  margin-left: 15px;
+}
+
+form {
+  margin: 0 auto;
+  width: 60%;
+}
+form p * {
+  display: flex;
+  align-content: flex-start;
+}
+
+a img {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  max-width: 200px;
+  max-height: 200px;
+}
+
+button {
+  opacity: 1;
+  color: #7c4dff;
+}
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.btn {
+  background-color: black;
+}
+
+.gradienttext {
+  color: transparent;
+  background: linear-gradient(purple, midnightblue);
+  background: -webkit-linear-gradient(purple, midnightblue);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.navbar {
+  opacity: 0.55;
+  z-index: 1;
+}
+
+menuitem {
+  text-shadow: 1px 2px 1px black;
+  opacity: 1;
+  font-stretch: ultra-expanded;
+  color: #2962ff;
+}
+
+a {
+  text-shadow: 2px 2px 2px black;
+  font-size: 150%;
+  opacity: 0.9;
+  color: #7c4dff;
+}
+
+a p {
+  word-wrap: break-word;
+  overflow: hidden;
+  max-width: 250px;
+  max-height: 120px;
+  margin: 5px;
+  font-stretch: condensed;
+}
+
+#myProfile {
+  font-family: "Monsieur La Doulaise";
+  font-size: 300%;
+  word-spacing: 1em;
+  letter-spacing: 0.35em;
+}
+
+.card {
+  display: grid;
+  grid-template-columns: 1fr 4fr 3fr;
+  margin-top: 5vh;
+  padding-top: 15vh;
+  min-height: 90vh;
+  font-family: "Kalam", cursive;
+
+  color: rgb(87, 87, 88);
+}
+.card-text {
+  text-align: left;
+  text-indent: 5%;
+}
+iframe {
+  margin-top: -25vh;
+  min-height: 90vh;
+  width: 100%;
+  transform: scale(1);
+}
+@keyframes sway {
+  0% {
+    transform: rotateZ(-15deg) rotateX(55deg);
+  }
+  30% {
+    transform: rotateZ(20deg) rotateX(60deg);
+    animation-timing-function: ease-in-out;
+  }
+  60% {
+    transform: rotateZ(-20deg) rotateX(55deg);
+    animation-timing-function: ease-in-out;
+  }
+  100% {
+    transform: rotateZ(0deg) rotateX(58deg);
+    animation-timing-function: cubic-bezier(0.99, 0, 0.89, 0.435);
+  }
+}
+@keyframes fall {
+  60% {
+    -webkit-filter: drop-shadow(0px 60px 40px rgba(0, 0, 0, 0));
+  }
+  100% {
+    margin-top: 500px;
+    -webkit-filter: drop-shadow(0px 5px 8px rgba(0, 0, 0, 0.6));
+  }
+}
+
+div#fall-container {
+  overflow: hidden;
+  position: relative;
+  perspective-origin: bottom;
+  perspective: 70%;
+  z-index: 1;
+}
+
+span#fall-container img {
+  position: absolute;
+  width: 8%;
+  transform-origin: 0px -200px 0px;
+  animation-name: fall, sway;
+  animation-duration: 7s, 8s;
+  animation-fill-mode: both;
+  animation-timing-function: linear, ease-in-out;
+  z-index: 1;
+}
+#leaf1 {
+  top: 6vh;
+}
+#leaf2 {
+  top: 160vh;
+  left: 55%;
+  animation-delay: 2s;
+  transform: rotateX(58deg);
+}
+#leaf3 {
+  width: 28%;
+  top: 150vh;
+  left: 22%;
+  animation-delay: 3.2s;
+}
+#leaf4 {
+  width: 25%;
+  top: 59vh;
+  left: 38%;
+  animation-delay: 4.4s;
+}
+#leaf5 {
+  width: 28%;
+  top: 22vh;
+  left: 70%;
+  animation-delay: 2.25s;
+}
+#leaf6 {
+  width: 23%;
+  top: 0px;
+  left: 65%;
+  animation-delay: 3.8s;
+}
+#leaf7 {
+  width: 23%;
+  top: 90vh;
+  left: 45%;
+  animation-delay: 5.8s;
+}
+#leaf8 {
+  width: 23%;
+  top: -31vh;
+  left: 30%;
+  animation-delay: 10.8s;
+}
