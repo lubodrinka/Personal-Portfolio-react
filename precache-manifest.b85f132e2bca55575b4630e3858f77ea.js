@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/Personal-Portfolio-react/static/media/leaf4.a2843d63.png"
   },
   {
-    "revision": "28da534ec467c9255ee6",
-    "url": "/Personal-Portfolio-react/static/css/main.9bce0cc3.chunk.css"
+    "revision": "14d848b715e084fa9c88",
+    "url": "/Personal-Portfolio-react/static/css/main.6ab14b5f.chunk.css"
   },
   {
     "revision": "74cbae74d68d014362c4",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/Personal-Portfolio-react/static/media/leaf3.d63b71a5.png"
   },
   {
-    "revision": "28da534ec467c9255ee6",
-    "url": "/Personal-Portfolio-react/static/js/main.28da534e.chunk.js"
+    "revision": "14d848b715e084fa9c88",
+    "url": "/Personal-Portfolio-react/static/js/main.14d848b7.chunk.js"
   },
   {
     "revision": "c4f0dd357e151dbb59f879d55902dcd9",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/Personal-Portfolio-react/static/media/flags.f8428f83.png"
   },
   {
-    "revision": "9f3430d92e7b1e10e440054f058d29d5",
+    "revision": "c9eae8d8d8aeb769f917eceda640d498",
     "url": "/Personal-Portfolio-react/index.html"
   }
 ];
