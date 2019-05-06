@@ -1,7 +1,7 @@
 {
   "main.css": "/Personal-Portfolio-react/static/css/main.6ab14b5f.chunk.css",
-  "main.js": "/Personal-Portfolio-react/static/js/main.1a9557ec.chunk.js",
-  "main.js.map": "/Personal-Portfolio-react/static/js/main.1a9557ec.chunk.js.map",
+  "main.js": "/Personal-Portfolio-react/static/js/main.32fc38e5.chunk.js",
+  "main.js.map": "/Personal-Portfolio-react/static/js/main.32fc38e5.chunk.js.map",
   "static/js/1.74cbae74.chunk.js": "/Personal-Portfolio-react/static/js/1.74cbae74.chunk.js",
   "static/js/1.74cbae74.chunk.js.map": "/Personal-Portfolio-react/static/js/1.74cbae74.chunk.js.map",
   "runtime~main.js": "/Personal-Portfolio-react/static/js/runtime~main.5dd65c0e.js",
@@ -17,6 +17,6 @@
   "static/media/leaf2.png": "/Personal-Portfolio-react/static/media/leaf2.b86a27ac.png",
   "static/css/main.6ab14b5f.chunk.css.map": "/Personal-Portfolio-react/static/css/main.6ab14b5f.chunk.css.map",
   "index.html": "/Personal-Portfolio-react/index.html",
-  "precache-manifest.0db37e0bff608281b2774ae87e006d92.js": "/Personal-Portfolio-react/precache-manifest.0db37e0bff608281b2774ae87e006d92.js",
+  "precache-manifest.6d278c9ec90ef47ad94d00c966b7bcfa.js": "/Personal-Portfolio-react/precache-manifest.6d278c9ec90ef47ad94d00c966b7bcfa.js",
   "service-worker.js": "/Personal-Portfolio-react/service-worker.js"
 }
