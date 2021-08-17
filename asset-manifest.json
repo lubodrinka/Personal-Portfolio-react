@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Personal-Portfolio-react/static/css/main.3a65c4df.chunk.css",
-    "main.js": "/Personal-Portfolio-react/static/js/main.2647670d.chunk.js",
-    "main.js.map": "/Personal-Portfolio-react/static/js/main.2647670d.chunk.js.map",
+    "main.js": "/Personal-Portfolio-react/static/js/main.57ef5d32.chunk.js",
+    "main.js.map": "/Personal-Portfolio-react/static/js/main.57ef5d32.chunk.js.map",
     "runtime-main.js": "/Personal-Portfolio-react/static/js/runtime-main.721416c7.js",
     "runtime-main.js.map": "/Personal-Portfolio-react/static/js/runtime-main.721416c7.js.map",
     "static/js/2.2c91d8cf.chunk.js": "/Personal-Portfolio-react/static/js/2.2c91d8cf.chunk.js",
@@ -18,12 +18,14 @@
     "static/media/leaf5.63adef6b.png": "/Personal-Portfolio-react/static/media/leaf5.63adef6b.png",
     "static/media/leaf6.bc389019.png": "/Personal-Portfolio-react/static/media/leaf6.bc389019.png",
     "static/media/leaf7.b0f193cb.png": "/Personal-Portfolio-react/static/media/leaf7.b0f193cb.png",
-    "static/media/leaf8.bef60af5.png": "/Personal-Portfolio-react/static/media/leaf8.bef60af5.png"
+    "static/media/leaf8.bef60af5.png": "/Personal-Portfolio-react/static/media/leaf8.bef60af5.png",
+    "static/media/verslag-techtalk-mysql.08ba1cbb.png": "/Personal-Portfolio-react/static/media/verslag-techtalk-mysql.08ba1cbb.png",
+    "static/media/xampp-logo.37196875.jpg": "/Personal-Portfolio-react/static/media/xampp-logo.37196875.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.721416c7.js",
     "static/js/2.2c91d8cf.chunk.js",
     "static/css/main.3a65c4df.chunk.css",
-    "static/js/main.2647670d.chunk.js"
+    "static/js/main.57ef5d32.chunk.js"
   ]
 }
